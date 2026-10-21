@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Muhammad Bazwa Arigusna — Fullstack Developer, Machine Learning Engineer, UI/UX Designer" width="100%">
+<img src="assets/banner.svg" alt="Muhammad Bazwa Arigusna — Fullstack Developer, Machine Learning Engineer, WEB3 Enthusiast" width="100%">
 
 <br>
 
