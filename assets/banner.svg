@@ -27,7 +27,7 @@ text{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,'Courier New',monosp
 <text x="60" y="46" font-size="13" font-weight="700" fill="#a3abd6" letter-spacing="2">PLAYER 1 / ONLINE</text>
 <text x="40" y="104" font-size="28" font-weight="700" fill="#e8ecff">Muhammad Bazwa</text>
 <text x="40" y="138" font-size="28" font-weight="700" fill="#e8ecff">Arigusna</text>
-<text x="40" y="172" font-size="14" fill="#4fd1c5">Fullstack Dev · ML Engineer · UI/UX Designer</text>
+<text x="40" y="172" font-size="14" fill="#4fd1c5">Fullstack Dev · ML Engineer · WEB3 Enthusiast</text>
 <g clip-path="url(#tc)"><text x="40" y="222" font-size="20" font-weight="700" fill="#ffd166">Build. Learn. Ship.</text></g>
 <rect y="203" width="3" height="22" fill="#4fd1c5"><animate attributeName="x" dur="6s" repeatCount="indefinite" calcMode="discrete" values="40.0;52.0;64.0;76.0;88.0;100.0;112.0;124.0;136.0;148.0;160.0;172.0;184.0;196.0;208.0;220.0;232.0;244.0;256.0;268.0;268;268;268;268;268;268;40"/></rect>
 <text x="40" y="268" font-size="12" fill="#a3abd6">S1 Informatika · UPN “Veteran” Jawa Timur</text>
