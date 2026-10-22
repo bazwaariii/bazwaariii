@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Muhammad Bazwa Arigusna — Fullstack Developer, Machine Learning Engineer, WEB3 Enthusiast" width="100%">
+<img src="assets/banner.svg" alt="Muhammad Bazwa Arigusna — Fullstack Developer, Machine Learning Engineer, UI/UX Designer" width="100%">
 
 <br>
 
@@ -14,7 +14,7 @@
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## `> about.me`
+## <img src="assets/h-about.svg" alt="about.me" width="100%">
 
 Halo! Saya **Muhammad Bazwa Arigusna**, mahasiswa S1 Informatika di **UPN “Veteran” Jawa Timur**. Saya suka memadukan **desain antarmuka yang estetik (UI/UX, Glassmorphism)** dengan **kecerdasan buatan (Machine Learning & Computer Vision)** dan ekosistem **Web3 (Solana)**.
 
@@ -28,33 +28,21 @@ Halo! Saya **Muhammad Bazwa Arigusna**, mahasiswa S1 Informatika di **UPN “Vet
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## `> now_playing`
+## <img src="assets/h-now.svg" alt="now_playing" width="100%">
 
-| Quest | Deskripsi | Stack |
-|---|---|---|
-| **Sentia** | Autonomous AI financial & trading agent di jaringan Solana | `Solana` `AI Agent` |
-| **ErgoVision** | Analisis postur ergonomis secara real-time | `MediaPipe` `LSTM` `Computer Vision` |
-
-**Sedang dipelajari:** Fine-tuning LLM (LLaMA-3) · RAG pipeline dengan LangChain · Smart contract Solana · Arsitektur cloud
+<img src="assets/quests.svg" alt="Quest aktif: Sentia (autonomous AI financial & trading agent di Solana) dan ErgoVision (analisis postur ergonomis real-time dengan MediaPipe dan LSTM). Sedang dipelajari: LLM fine-tuning LLaMA-3, RAG dengan LangChain, smart contract Solana, cloud architecture." width="100%">
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## `> skill_tree`
+## <img src="assets/h-skills.svg" alt="skill_tree" width="100%">
 
-![Python](https://img.shields.io/badge/Python-181d38?style=flat-square&logo=python&logoColor=4fd1c5)
-![C++](https://img.shields.io/badge/C++-181d38?style=flat-square&logo=cplusplus&logoColor=4fd1c5)
-![PHP](https://img.shields.io/badge/PHP-181d38?style=flat-square&logo=php&logoColor=4fd1c5)
-![Jupyter](https://img.shields.io/badge/Jupyter-181d38?style=flat-square&logo=jupyter&logoColor=4fd1c5)
-![OpenCV](https://img.shields.io/badge/OpenCV-181d38?style=flat-square&logo=opencv&logoColor=4fd1c5)
-![Solana](https://img.shields.io/badge/Solana-181d38?style=flat-square&logo=solana&logoColor=4fd1c5)
-![LightGBM](https://img.shields.io/badge/LightGBM-181d38?style=flat-square&logoColor=4fd1c5)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-181d38?style=flat-square&logoColor=4fd1c5)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-181d38?style=flat-square&logoColor=4fd1c5)
-![Glassmorphism](https://img.shields.io/badge/Glassmorphism-181d38?style=flat-square&logoColor=4fd1c5)
+<img src="assets/skills.svg" alt="Skill tree: Python, C++, PHP, Jupyter, OpenCV, MediaPipe, LightGBM, Solana, UI/UX, Glassmorphism" width="100%">
+
+<img src="assets/tips.svg" alt="Dev tip of the day" width="100%">
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## `> inventory`
+## <img src="assets/h-inventory.svg" alt="inventory" width="100%">
 
 | Repo | Deskripsi | Bahasa |
 |---|---|---|
@@ -63,10 +51,39 @@ Halo! Saya **Muhammad Bazwa Arigusna**, mahasiswa S1 Informatika di **UPN “Vet
 | [Sistem-ATM-Digital](https://github.com/bazwaariii/Sistem-ATM-Digital) | Simulasi sistem ATM digital | Python |
 | [Aplikasi-Website-menggunakan-PDO](https://github.com/bazwaariii/Aplikasi-Website-menggunakan-PDO) | Aplikasi website keuangan dengan PHP PDO | PHP |
 
-<img src="assets/divider.svg" alt="" width="100%">
+<!--
+SNAKE: aktifkan setelah workflow "Generate Snake" selesai berjalan sekali
+(tab Actions > Generate Snake > Run workflow). Lalu hapus tanda komentar ini.
 
 <div align="center">
-
-*Build things that look cute, run fast, and solve real problems.*
-
+<img src="https://raw.githubusercontent.com/bazwaariii/bazwaariii/output/github-snake-dark.svg" alt="Animasi ular memakan grafik kontribusi GitHub" width="100%">
 </div>
+-->
+
+<img src="assets/divider.svg" alt="" width="100%">
+
+## <img src="assets/h-connect.svg" alt="connect" width="100%">
+
+Punya ide, proyek, atau sekadar ingin ngobrol soal AI, UI, dan Web3? Mampir saja:
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-ffd166?style=for-the-badge&logo=vercel&logoColor=0d1124&labelColor=181d38)](https://my-portfolio-inky-nine-26.vercel.app/)
+[![Blog](https://img.shields.io/badge/Blog-4fd1c5?style=for-the-badge&logo=blogger&logoColor=0d1124&labelColor=181d38)](https://viperxploit.blogspot.com)
+[![Medium](https://img.shields.io/badge/Medium-4fd1c5?style=for-the-badge&logo=medium&logoColor=0d1124&labelColor=181d38)](https://medium.com/@arigusnawawa11)
+[![Instagram](https://img.shields.io/badge/Instagram-ff7a90?style=for-the-badge&logo=instagram&logoColor=0d1124&labelColor=181d38)](https://instagram.com/inclaucode_)
+
+<details>
+<summary><b>🎮 Cheat code: ↑ ↑ ↓ ↓ ← → ← → B A</b> (klik untuk mencoba)</summary>
+
+<br>
+
+```
+  /\_/\
+ ( o.o )   Easter egg ditemukan!
+  > ^ <    +1 XP, +1 kopi, +1 teman baru.
+```
+
+Terima kasih sudah menjelajah sampai sini. Kalau ada ide kolaborasi, hubungi lewat Portfolio atau Medium di atas.
+
+</details>
+
+<img src="assets/footer.svg" alt="Terima kasih sudah scroll! Pixel art karakter dan kucing di dekat api unggun." width="100%">
