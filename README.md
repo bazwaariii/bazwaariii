@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Muhammad Bazwa Arigusna — Fullstack Developer, Machine Learning Engineer, UI/UX Designer" width="100%">
+<img src="assets/banner.svg" alt="Muhammad Bazwa Arigusna — Fullstack Developer, Machine Learning Engineer, WEB3 Enthusiast" width="100%">
 
 <br>
 
@@ -51,9 +51,6 @@ Halo! Saya **Muhammad Bazwa Arigusna**, mahasiswa S1 Informatika di **UPN “Vet
 | [Sistem-ATM-Digital](https://github.com/bazwaariii/Sistem-ATM-Digital) | Simulasi sistem ATM digital | Python |
 | [Aplikasi-Website-menggunakan-PDO](https://github.com/bazwaariii/Aplikasi-Website-menggunakan-PDO) | Aplikasi website keuangan dengan PHP PDO | PHP |
 
-
-SNAKE: aktifkan setelah workflow "Generate Snake" selesai berjalan sekali
-(tab Actions > Generate Snake > Run workflow). Lalu hapus tanda komentar ini.
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/bazwaariii/bazwaariii/output/github-snake-dark.svg" alt="Animasi ular memakan grafik kontribusi GitHub" width="100%">
